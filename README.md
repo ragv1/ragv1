@@ -1,4 +1,4 @@
-Let's K.I.S.S.
+Let's Keep it Simple.
 - 👋 Hi, I’m @ragv1
 - 👀 I’m interested in web and mobile development but I have a very AGILE mind ☻
 - 🌱 I’m currently learning Rust, Deno, Wasm and i have a SOLID understanding of Angular, Node and React.
